@@ -14,11 +14,12 @@ brew install imagemagick
 ```
 
 ## Running
-Pass the source file as first (and only) parameter
+Pass the source file as the first (and only) parameter
 
 ```
 ./script.sh large_image.png
 ```
+The output is the icon.icns file in the source directory.
 
 ## Contributing
-Ideas? Improments? Leave an issue or better yet, a PR!
+Ideas? Improvements? Leave an issue or better yet, a PR!
